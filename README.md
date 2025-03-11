@@ -27,8 +27,15 @@ O Método Cascata (Waterfall), conhecido também como método tradicional, é um
 (Explique os valores e princípios do Manifesto Ágil.)
 
 ## 🏆 Scrum  
+
 ### 📅 Sprints  
-(O que são sprints e como funcionam no Scrum?)
+É um período de tempo curto e fixo em que uma equipe scrum trabalha e são realizados todos os eventos necessários para o desenvolvimento de funcionalidades que possam ser entregues ao final do período.
+1. Planejamento: o que pode ser feito nesse sprint e como vai ser feito.
+2. Implementação: desenvolver os itens da lista do backlog.
+3. Revisão: demonstrar e validar o que concluiu durante a implementação.
+4. Retrospectiva: identificarem o que pode ser melhorado para o próximo sprint.
+
+<img src="https://lh4.googleusercontent.com/JJH627wRCf3aRVYMSPvd8Ie9TThyADMuJ26vsGq5WtZ0z4oP3ULiKytz-UmHT88wgHAh4cOuE4VTWlMW1FelwBiMPRD4tQq6jJVuy5ovwQQ1OYl7eU0oQ_GmwB8GVB1NCijJ0JosDLeOb0TME6TQLbYjWLEg8mPr3c7kfo1cQ3_BQ-RNn35anzvISZgfbg](https://lh6.googleusercontent.com/lkc0iaut-gQNN4pC0bS_GT8OdoWfD-1b1-3hXItAfprTTNRZ5jexN6gCrYaUc1ZLoQAuVVDeOq4POcy8XuVWcKtF2EMUu5oGsP5AOy3IYyD5qTVy4j4L9SuXECSLgby8bP77N7Gp" alt="Imagem de amostra" width="400" height="400">
 
 ### 💬 Cerimônias  
 (Descreva as principais cerimônias do Scrum.)
