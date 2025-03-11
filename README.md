@@ -17,7 +17,7 @@ O Método Cascata (Waterfall), conhecido também como método tradicional, é um
 * Requer especificação completa e bem entendida;
 * Dificulta a introdução de mudanças após o início do processo.
 
-<img src="![image](https://github.com/user-attachments/assets/71e3534c-ca31-44fe-a183-d07dab62334f)" alt="Imagem de amostra" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/71e3534c-ca31-44fe-a183-d07dab62334f)" alt="Imagem de amostra" width="400" height="300">
 
 ### 🌐 Espiral  
 (Explique o modelo Espiral e como ele funciona.)
