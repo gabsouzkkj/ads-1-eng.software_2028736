@@ -35,7 +35,7 @@ O Método Cascata (Waterfall), conhecido também como método tradicional, é um
 3. Revisão: demonstrar e validar o que concluiu durante a implementação.
 4. Retrospectiva: identificarem o que pode ser melhorado para o próximo sprint.
 
-<img src="https://lh4.googleusercontent.com/JJH627wRCf3aRVYMSPvd8Ie9TThyADMuJ26vsGq5WtZ0z4oP3ULiKytz-UmHT88wgHAh4cOuE4VTWlMW1FelwBiMPRD4tQq6jJVuy5ovwQQ1OYl7eU0oQ_GmwB8GVB1NCijJ0JosDLeOb0TME6TQLbYjWLEg8mPr3c7kfo1cQ3_BQ-RNn35anzvISZgfbg](https://lh6.googleusercontent.com/lkc0iaut-gQNN4pC0bS_GT8OdoWfD-1b1-3hXItAfprTTNRZ5jexN6gCrYaUc1ZLoQAuVVDeOq4POcy8XuVWcKtF2EMUu5oGsP5AOy3IYyD5qTVy4j4L9SuXECSLgby8bP77N7Gp" alt="Imagem de amostra" width="400" height="400">
+<img src="https://www.laboneconsultoria.com.br/wp-content/uploads/2021/07/Tipos-de-Sprints-1-1024x795.png" alt="Imagem de amostra" width="400" height="400">
 
 ### 💬 Cerimônias  
 (Descreva as principais cerimônias do Scrum.)
