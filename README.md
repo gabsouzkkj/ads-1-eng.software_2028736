@@ -6,11 +6,19 @@ Diário onde serão adicionadas anotações e resumos semanais das aulas de Enge
 # 11.03.25
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
-O uso das metodologias ágeis de desenvolvimento de software são muito utilizadas na área de programação para a organização do trabalho em equipe. Tais métodos evoluem com o passar do tempo, deixando de ser um processo simples organizacional para se transformar em uma forma produtiva e eficaz ao desenvolver um software. Uma boa metodologia melhora o cuidado que a equipe terá com requisitos do cliente e garante que existam menos riscos no projeto.
+O uso das metodologias ágeis de desenvolvimento de software são muito utilizadas na área de programação para a organização do trabalho em equipe. Tais métodos evoluem com o passar do tempo, deixando de ser um processo simples organizacional para se transformar em uma forma produtiva e eficaz ao desenvolver um software. Uma boa metodologia melhora o cuidado que a equipe terá com requisitos do cliente e garante que existam menos riscos e atrasos no projeto.
 
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
-(Explique brevemente o modelo Cascata e suas características.)
+O Método Cascata (Waterfall), conhecido também como método tradicional, é uma das formas de realizar o gerenciamento de projetos, utilizando fases sequenciais, longo planejamento, projetos com custos, escopo e cronograma fixos. O método Waterfall é bastante indicado para projetos que têm requisitos bem definidos, no qual não são esperadas alterações. Suas características são:
+* Abordagem sistemática e sequencial;
+* Organizado em fases distintas e separadas;
+* Baseado nos processos convencionais de engenharia;
+* Requer especificação completa e bem entendida;
+* Dificulta a introdução de mudanças após o início do processo.
+
+![image](https://github.com/user-attachments/assets/595db4ec-6bf7-4590-ab60-173d8343fad1)
+
 
 ### 🌐 Espiral  
 (Explique o modelo Espiral e como ele funciona.)
