@@ -94,6 +94,6 @@ Estes valores orientam as interações e práticas das equipes, garantindo um pr
 ### 🎮 Jira / Trello  
 O Jira e Trello são ferramentas de gerenciamento de projetos que ajudam a organizar tarefas e acompanhar todo o progresso  de um projeto com quadros Kanbam e Scrum. 
 
-## Criação de um Board utilizando o site Trello
+## 💻 Criação de um Board utilizando o site Trello
 
 ![image](https://github.com/user-attachments/assets/9cd71a10-01c4-44fb-9aca-e6ff7e5d92d2)
