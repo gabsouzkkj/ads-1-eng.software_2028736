@@ -24,7 +24,6 @@ O Método Cascata (Waterfall), conhecido também como método tradicional, é um
 
 ## 💪 Metodologias Ágeis  
 ### 📖 Manifesto Ágil  
-(Explique os valores e princípios do Manifesto Ágil.)
 
 ## 🏆 Scrum  
 
@@ -38,7 +37,16 @@ O Método Cascata (Waterfall), conhecido também como método tradicional, é um
 <img src="https://www.laboneconsultoria.com.br/wp-content/uploads/2021/07/Tipos-de-Sprints-1-1024x795.png" alt="Imagem de amostra" width="512" height="397">
 
 ### 💬 Cerimônias  
-(Descreva as principais cerimônias do Scrum.)
+1. Refinamento do backlog:
+No refinamento do backlog, você analisa as histórias dos usuários para o próximo sprint.
+2. Reunião de planejamento do sprint:
+Essa reunião tem como o objetivo selecionar os elementos do backlog que serão utilizados no sprint
+3. Reuniões diárias do scrum:
+São reuniões diárias feitas para recapitular o que foi feito no dia anterior e listar as tarefas do dia atual. Elas geralmente duram apenas 15 minutos.
+4. Revisão do sprint:
+É onde os clientes e outras partes interessadas testam realmente o incremento do produto.
+5. Retrospectiva do sprint:
+É o momento que a equipe faz uma retrospectiva do sprint e avalia como tudo ocorreu.
 
 ## 🎯 Kanban  
 (Explique o funcionamento do Kanban e sua aplicação.)
