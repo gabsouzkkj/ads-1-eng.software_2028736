@@ -20,7 +20,7 @@ O Método Cascata (Waterfall), conhecido também como método tradicional, é um
 <img src="https://lh4.googleusercontent.com/JJH627wRCf3aRVYMSPvd8Ie9TThyADMuJ26vsGq5WtZ0z4oP3ULiKytz-UmHT88wgHAh4cOuE4VTWlMW1FelwBiMPRD4tQq6jJVuy5ovwQQ1OYl7eU0oQ_GmwB8GVB1NCijJ0JosDLeOb0TME6TQLbYjWLEg8mPr3c7kfo1cQ3_BQ-RNn35anzvISZgfbg" alt="Imagem de amostra" width="400" height="400">
 
 ### 🌐 Espiral  
-(Explique o modelo Espiral e como ele funciona.)
+O método de desenvolvimento de software em espiral é uma estratégia que busca aprimorar o processo de criação de software por meio de uma abordagem iterativa e incremental. Criada por Barry Boehm em 1986, essa metodologia incorpora elementos do Modelo cascata juntamente com a utilização de protótipos.
 
 ## 💪 Metodologias Ágeis  
 ### 📖 Manifesto Ágil  
